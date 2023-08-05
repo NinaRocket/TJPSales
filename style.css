@@ -148,3 +148,9 @@ h4 {
         height: 180px;
     }
 } */
+
+@media (min-width: 992px){
+.container, .container-lg, .container-md, .container-sm {
+    max-width: 720px !important;
+}
+}
