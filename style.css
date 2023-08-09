@@ -121,6 +121,9 @@ h4 {
     /* max-width: 60% !important; */
 
 }
+.container img{
+    border-radius:20px;
+}
 /* .hero-section {
   background: url('./assets/newlogobrdr.jpeg') 50% no-repeat;
   background-size: cover;
