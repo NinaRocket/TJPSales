@@ -34,7 +34,7 @@ class Header extends HTMLElement {
                   <li><hr class="dropdown-divider"></li>
                   <li><a class="dropdown-item" href="../Pages/truckracks.html">Truck Racks</a></li>
                   <li><hr class="dropdown-divider"></li>
-                  <li><a class="dropdown-item" href="#">Window Deflctors</a></li>
+                  <li><a class="dropdown-item" href="#">Window Deflctors (Coming Soon)</a></li>
                   <li><hr class="dropdown-divider"></li>
                   <li><a class="dropdown-item" href="../Pages/floormats.html">Floor Mats</a></li>
                   <li><hr class="dropdown-divider"></li>
