@@ -44,9 +44,7 @@ class Header extends HTMLElement {
               </li>
             </ul>
         <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">About</a>
-          </li>
+ 
         </ul>
        
       </div>

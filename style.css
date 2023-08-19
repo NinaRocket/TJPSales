@@ -5,8 +5,18 @@ body{
 .homepage-info{
     text-align:center;
 }
+.homepage-info h1{
+    font-size:36px;
+}
+.homepage-info p{
+    font-size:24px;
+}
 h1{
     color:#041d34 !important;
+    margin-top:20px !important;
+}
+.homepage-info a{
+    font-size:24px;
 }
 .row{
     margin-bottom: 20px !important;
