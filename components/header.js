@@ -26,6 +26,8 @@ class Header extends HTMLElement {
                         </ul>
                       </li>
                   <li><hr class="dropdown-divider"></li>
+                  <li><a class="dropdown-item" href="../Pages/sidesteps.html">Step Bars/Running Boards</a></li>
+                  <li><hr class="dropdown-divider"></li>
                   <li><a class="dropdown-item" href="../Pages/bedliners.html">Bed Liners</a></li>
                   <li><hr class="dropdown-divider"></li>
                   <li><a class="dropdown-item" href="../Pages/bedrails.html">Bed Rails</a></li>
@@ -37,8 +39,7 @@ class Header extends HTMLElement {
                   <li><a class="dropdown-item" href="#">Window Deflctors (Coming Soon)</a></li>
                   <li><hr class="dropdown-divider"></li>
                   <li><a class="dropdown-item" href="../Pages/floormats.html">Floor Mats</a></li>
-                  <li><hr class="dropdown-divider"></li>
-                  <li><a class="dropdown-item" href="../Pages/sidesteps.html">Step Bars/Running Boards</a></li>
+                 
                  
                 </ul>
               </li>
